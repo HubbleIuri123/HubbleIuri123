@@ -1,8 +1,15 @@
 ### Olá tudo bem? Sou o Iuri Oliveira Mariano 👋🏻👱🏻
 
+#### Perfis pessoais:
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iurimariano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-oliveira-mariano-798a05260/?originalSubdomain=br)
 
+#### Perfi de Fotografia:
+[![Instagram2](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iurimarianofotografia)
+
+#### Perfil de Design:
+[![Instagram3](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imwithyou_design)
 
 ![Iuri GitHub stats](https://github-readme-stats.vercel.app/api?username=HubbleIuri123&show_icons=true&theme=onedark)
 
